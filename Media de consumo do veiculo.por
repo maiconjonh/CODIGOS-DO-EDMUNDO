@@ -1,21 +1,21 @@
 programa {
   funcao inicio() {
-    //Declaração das variantes
+    //DeclaraÃ§Ã£o das variantes
 
     real kminicial, kmfinal, combustivel, litrosabs
 
     //entrada de dados
 
-    escreva ("quantos litros você abasteceu em seu carro?: ")
+    escreva ("quantos litros vocÃª abasteceu em seu carro?: ")
     leia (combustivel)
 
-    escreva ("qual é o km inicial?: ")
+    escreva ("qual Ã© o km inicial?: ")
     leia (kminicial)
 
     escreva ("qual foi o km final?: ")
     leia (kmfinal)
 
-    //saída de dados
+    //saÃ­da de dados
     
     combustivel= kmfinal/ combustivel
 
