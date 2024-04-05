@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-    //declaraÁ„o de variaveis
+    //declara√ß√£o de variaveis
     cadeia paisandu, vasco, corinthians, time, desconhecido
 
     //entrada de dados
@@ -10,15 +10,15 @@ programa {
 
     //saida de dados
      se (time == "paisandu"){
-        escreva ("sua cidede È Rio de Janeiro, Campe„o dos Campeıes! ")
+        escreva ("sua cidede √© Rio de Janeiro, Campe√£o dos Campe√µes! ")
      }
      
     senao se (time == "vasco") {
-        escreva  ("sua cideda È Rio de Janeiro, Tetracamp„o Brasileiro! ")
+        escreva  ("sua cideda √© Rio de Janeiro, Tetracamp√£o Brasileiro! ")
     }
 
     senao se (time == "corinthians") {
-        escreva("sua cidade È S„o Paulo, Campe„o Mundial! ")
+        escreva("sua cidade √© S√£o Paulo, Campe√£o Mundial! ")
     }
 
     senao escreva ("Time desconhecido")
