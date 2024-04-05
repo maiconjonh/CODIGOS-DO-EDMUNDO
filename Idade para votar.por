@@ -8,7 +8,7 @@ cadeia idade
      
     se (idade < 16)
     {
-      escreva ("não pode votar") 
+      escreva ("nÃ£o pode votar") 
     }
     senao
     {
