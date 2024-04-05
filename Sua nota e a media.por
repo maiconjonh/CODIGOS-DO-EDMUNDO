@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-    // observação: declaração de variaveis 
+    // observaÃ§Ã£o: declaraÃ§Ã£o de variaveis 
     cadeia nome
     inteiro nota1, nota2
     real media
@@ -14,12 +14,12 @@ programa {
      leia(nota2)
     media = (nota1 + nota2) / 2
     
-    //saída de dados
+    //saÃ­da de dados
     se (media >= 7){
       escreva (nome+" esta aprovado")
     }
     senao{
-      escreva (nome+" esta de recuperação")
+      escreva (nome+" esta de recuperaÃ§Ã£o")
     }
     
 
