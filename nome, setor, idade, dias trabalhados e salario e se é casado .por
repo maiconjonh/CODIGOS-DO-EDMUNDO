@@ -20,7 +20,7 @@ programa {
     escreva ("qual o seu salario ?: ")
     leia (salario)
     
-    escreva ("voce é casado S/N ")
+    escreva ("voce Ã© casado S/N ")
     leia (casado)
 
   
@@ -31,7 +31,7 @@ programa {
       resultado = resultado *1.1
     }
     
-  escreva ("seu nome é ", nome, " trabalha no setor ", setor, " sua idade é ", idade, " seu salario é ", resultado , "voce é casado", casado)
+  escreva ("seu nome Ã© ", nome, " trabalha no setor ", setor, " sua idade Ã© ", idade, " seu salario Ã© ", resultado , "voce Ã© casado", casado)
 
 
 
